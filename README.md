@@ -192,7 +192,7 @@ The analysis code is provided to support reproducible research as described in t
 
 For questions regarding the code or analysis:
 - Email: Isla.duporge@princeton.edu
-- 
+  
 ## Version History
 
 - **v1.0** (2026-03-05): Initial release with publication
