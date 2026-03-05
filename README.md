@@ -1,6 +1,6 @@
 # Monarch Butterfly Migration Analysis Code
 
-This repository contains analysis code supporting the publication on monarch butterfly (*Danaus plexippus*) migration behavior based on automated receiver networks.
+This repository contains analysis code supporting the publication on monarch butterfly (*Danaus plexippus*) migration behavior based on ultralight radio tag tracking.
 
 ## Overview
 
