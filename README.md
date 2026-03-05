@@ -175,39 +175,24 @@ Range: [-180°, 180°)
 
 ### Figure 1 Caption
 
-(For use in paper Methods section)
-
-> **Figure 1—Tracking locations and detection summary.** Monarch butterflies were tracked using automated receiver networks across eight geographically distributed locations. Release sites are shown as colored dots, with color intensity proportional to the number of detections recorded at each location. (A) All 47,109 detections from 57 butterflies across eight release locations color-coded by origin. (B) Migration paths showing start locations (green circles) and final detection locations (red squares) with gray connecting lines representing individual butterfly trajectories. The control group (Austin, n=9) released from the species' endemic Texas breeding area exhibited convergent migration toward Mexican overwintering sites. Displaced butterflies (n=48) from seven distant locations exhibited similar directional convergence, suggesting a shared migratory destination or navigation mechanism.
+Tracking locations and detection summary.** Monarch butterflies were tracked using automated receiver networks across eight geographically distributed locations. Release sites are shown as colored dots, with color intensity proportional to the number of detections recorded at each location. (A) All 47,109 detections from 57 butterflies across eight release locations color-coded by origin. (B) Migration paths showing start locations (green circles) and final detection locations (red squares) with gray connecting lines representing individual butterfly trajectories. The control group (Austin, n=9) released from the species' endemic Texas breeding area exhibited convergent migration toward Mexican overwintering sites. Displaced butterflies (n=48) from seven distant locations exhibited similar directional convergence, suggesting a shared migratory destination or navigation mechanism.
 
 ### Figure 2 Caption
 
-(For use in Results section)
+Bearing analysis reveals control-aligned migration.** Rose diagrams showing bearing angles at 10° intervals for (A) control butterflies (Austin release, n=9) with circular mean of 196.2° toward the Mexico overwintering sites, (B) displaced butterflies (n=48) released from seven non-control locations, and (C) the bearing angle difference between displaced and control butterflies. Displaced butterflies exhibited bearings sharply concentrated around the control group mean (206.6° ± 79.5°, Watson's U²=699.9, p<0.001), with only 10.4° offset from controls, demonstrating convergence on the shared roost destination. Panel C quantifies the minimal angular offset between groups, illustrating their directional alignment. In contrast, displaced bearings showed no concentration toward Mexican overwintering sites (mean angular distance=85.8°), indicating that displaced monarchs navigated toward the Austin control destination rather than exhibiting independent Mexico-directed migration.
 
-> **Figure 2—Bearing analysis reveals control-aligned migration.** Rose diagrams showing bearing angles at 10° intervals for (A) control butterflies (Austin release, n=9) with circular mean of 196.2° toward the Mexico overwintering sites, (B) displaced butterflies (n=48) released from seven non-control locations, and (C) the bearing angle difference between displaced and control butterflies. Displaced butterflies exhibited bearings sharply concentrated around the control group mean (206.6° ± 79.5°, Watson's U²=699.9, p<0.001), with only 10.4° offset from controls, demonstrating convergence on the shared roost destination. Panel C quantifies the minimal angular offset between groups, illustrating their directional alignment. In contrast, displaced bearings showed no concentration toward Mexican overwintering sites (mean angular distance=85.8°), indicating that displaced monarchs navigated toward the Austin control destination rather than exhibiting independent Mexico-directed migration.
-
-## Publication Information
-
-**Corresponding Author**: [Your Name]  
-**Institution**: [Your Institution]  
-**Year**: 2026  
-**Citation**: [Full citation]  
-**DOI**: [DOI]
 
 ## License
 
-This code is released under the [MIT License / Your chosen license].  
+This code is released under the [MIT License]
 The analysis code is provided to support reproducible research as described in the publication.
 
-## Acknowledgments
-
-We thank the [funding agency/institution names] for financial support of this research. Receiver network infrastructure was developed and maintained by [names/institutions].
 
 ## Contact
 
 For questions regarding the code or analysis:
-- Email: [your.email@institution.edu]
-- GitHub Issues: [link to issues]
-
+- Email: Isla.duporge@princeton.edu
+- 
 ## Version History
 
 - **v1.0** (2026-03-05): Initial release with publication
